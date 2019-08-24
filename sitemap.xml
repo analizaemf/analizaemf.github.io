@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://analizaemf.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://analizaemf.github.io/</loc>
+</url>
+<url>
+<loc>https://analizaemf.github.io/analiza-emf-aplikacija.html</loc>
+<lastmod>2019-08-24T11:03:32+02:00</lastmod>
+<image:image>
+<image:loc>https://analizaemf.github.io/media\posts\2/EMF1.jpg</image:loc>
+<image:title><![CDATA[Aplikacija za analizu]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://analizaemf.github.io/media\posts\2/EMF1.jpg</image:loc>
+<image:title><![CDATA[Lokacijski filtriran grafikon maksimalnih dnevnih merenja ]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://analizaemf.github.io/media\posts\2/EMF2.jpg</image:loc>
+<image:title><![CDATA[Uporedni prikaz sa stubičastim grafikonima na mapi ]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://analizaemf.github.io/media\posts\2/EMF3.jpg</image:loc>
+<image:title><![CDATA[Uporedni prikaz na dve karte]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://analizaemf.github.io/media\posts\2/EMF4.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://analizaemf.github.io/media\posts\2/EMF5.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://analizaemf.github.io/media\posts\2/EMF6.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://analizaemf.github.io/media\posts\2/EMF7.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://analizaemf.github.io/analiza-nivoa-emf.html</loc>
+<lastmod>2019-08-23T20:35:35+02:00</lastmod>
+<image:image>
+<image:loc>https://analizaemf.github.io/media\posts\1/EMFheader.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://analizaemf.github.io/o-projektu.html</loc>
+<lastmod>2019-08-24T01:56:41+02:00</lastmod>
+</url>
+<url>
+<loc>https://analizaemf.github.io/predikcija-emf.html</loc>
+<lastmod>2019-08-24T09:36:27+02:00</lastmod>
+<image:image>
+<image:loc>https://analizaemf.github.io/media\posts\4/EMFpredikcija.jpg</image:loc>
+<image:title><![CDATA[Prostorna predikcija nivoa EMF - Beograd]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://analizaemf.github.io/media\posts\4/EMFpredikcija.jpg</image:loc>
+<image:title><![CDATA[Prostorna predikcija EMF - Beograd]]></image:title>
+</image:image>
+</url>
+</urlset>
