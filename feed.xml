@@ -3,7 +3,7 @@
     <title>Analiza EMF</title>
     <link href="https://analizaemf.github.io/feed.xml" rel="self" />
     <link href="https://analizaemf.github.io" />
-    <updated>2019-08-25T01:51:22+02:00</updated>
+    <updated>2019-08-27T09:41:03+02:00</updated>
     <author>
         <name>Nikola Kovačević</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://analizaemf.github.io/predikcija-emf.html"/>
         <id>https://analizaemf.github.io/predikcija-emf.html</id>
 
-        <updated>2019-08-24T09:36:27+02:00</updated>
+        <updated>2019-08-27T09:40:55+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://analizaemf.github.io/media/posts/4/EMFpredikcija.jpg" alt="Prostorna predikcija nivoa EMF - Beograd" />
@@ -42,7 +42,7 @@
 
 <h2 id="mcetoc_1diqp9k0o0">Područje predikcije</h2>
 <p>Sagledavanjem i analizom preuzetih prostornih podataka, utvrđeno da je najveći broj stanica grupisan na užem području Beograda i da je veliki deo područja Srbije nepokriven merenjima. Stoga je za područje predikcije odabrana teritorija gradskih opština Beograda.</p>
-<p>Nakon analize, eliminacija merenja za koje je statistički utvrđeno da ne bi trebalo da se nalaze u skupu merenja, agregacija merenja (električno polje, temperature, vlažnost) za svaku poziciju stanice sa vremenskom rezolucijom od jednog dana (jedna stanica, jedno osrednjeno merenje za svaki od atributa - prediktora). </p>
+<p>Nakon analize, eliminacije merenja za koje je statistički utvrđeno da ne bi trebalo da se nalaze u skupu merenja, izvršena je agregacija merenja (električno polje, temperatura i  vlažnost vazduha) za svaku poziciju stanice sa vremenskom rezolucijom od jednog dana (jedna stanica, jedno osrednjeno merenje za svaki od atributa - prediktora). </p>
 <h2 id="mcetoc_1diqp9k0o1">Model</h2>
 <p id="mcetoc_1diqpahhv2">Prilikom modeliranja jačine elektromagnetskog (električnog) polja primenjena je metoda linearne regresije pri čemu su prediktori:</p>
 <ul>
